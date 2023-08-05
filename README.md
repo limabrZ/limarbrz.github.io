@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-Br">
     <head>
         <meta charset="UTF-8">
@@ -9,9 +8,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     </head>
-    
     <body>
-        
         <header class="cabeçalho">
             <img class="cabeçalho-imagem" src="esaaa.jpeg" alt="logo da escola escuta">
             <ul class="cabeçalho-lista">
@@ -21,7 +18,6 @@
                 </a>
             </ul>
         </header>
-        
         <section class="Escola">
             <div class="escola-div-conteudo">
                 <h2 class="titulo">𝔼𝕤𝕔𝕠𝕝𝕒 𝔼𝕤𝕔𝕦𝕥𝕒</h2>
@@ -32,13 +28,11 @@
             </div>
             <img class="escola-imagem" src="grupo-de-bate-papo.png" alt="imagem.">
         </section>
-    
         <section>
             <div class="estudante-div" align="center">
                 <img src="acabar_com_bullying_unicef_safernet.png" alt="infográfico mostra com desenhos e textos o que é o bullying e como procurar ajuda, não praticá-lo e denunciá-lo">
             </div>
         <section>
-
         <section>
             <footer class="rodape">
                 <img class="rodape-imagem" src="grupo.png" alt="grupo">
